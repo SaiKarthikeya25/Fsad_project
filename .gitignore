@@ -1,0 +1,15 @@
+# React junk
+frontend/node_modules/
+frontend/build/
+.env
+
+# Java/Maven junk
+backend/target/
+backend/.settings/
+backend/.project
+backend/.classpath
+backend/bin/
+
+# IDE junk
+.DS_Store
+.vscode/
